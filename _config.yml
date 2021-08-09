@@ -38,9 +38,9 @@ baseurl: "/colab_blog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  social_links: (none)
-    twitter: (none)
-    github: github.com/hwaneest
+  social_links: 
+    twitter: fastdotai
+    github: hwaneest
 
 # Set this to true to get LaTeX math equation support
 use_math: 
